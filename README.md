@@ -33,3 +33,13 @@ Angular client application with .Net Core API and sqlite database
 * C# by OmniSharp (run >NET: Generate assets for build and debug)
 * C# Extensions
 * SQLite
+
+### Node
+* Version 16.x or higher for this project
+
+### Angular
+* Run `npm install -g @angular/cli@{version number}` to get CLI for specified version
+* Run `ng --version` to see current version of Angular
+* Project created using `ng new client --strict false` with Angular routing and CSS stylesheet format
+* Turned off `enable-strict-mode-prompt` in VS Code
+* Run the Angular client project using `ng serve`
